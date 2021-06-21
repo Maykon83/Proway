@@ -45,12 +45,6 @@ public class App {
         System.out.println("Vamos assinar o contrato!");
         System.out.println("Contrato assinado com sucesso!!!");
         }
-        //revisão de informações para revisão de contrato
-        /*System.out.println("De acordo com as suas informações!");
-        System.out.println("Temos a seguinte proposta!");
-        System.out.println("Solicitado um empréstimo de R$3000 reais");
-        System.out.println("Parcelados em 12 x R$250 reais");
-        System.out.println("Vamos assinar o contrato!");
-        System.out.println("Contrato assinado com sucesso!!!");*/
+        
     }
 }
